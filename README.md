@@ -1,0 +1,2 @@
+# VertcoinTrial
+Learning
